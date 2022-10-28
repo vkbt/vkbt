@@ -1,6 +1,6 @@
 - 👋 Hi Netflix, I’m @vkbt
 - 👀 I’m interested in machine learing
-- 🌱 I’m currently learning python, pandas, sql and many many more cool things
+- 🌱 I’m currently learning python, pandas, sql, javascript, hadoop and many many more cool things
 - 💞️ I’m looking to get an internship on your team
 - 📫 How to reach me ...
 
