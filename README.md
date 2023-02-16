@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vkbt
 - 👀 I’m interested in machine learing
 - 🌱 I’m currently learning python, pandas, sql, javascript, hadoop and many many more cool things
-- 💞️ I’m looking to get an internship on your team
+- 💞️ I’m looking to get an internship in machine learning
 - :iphone: call me
 
 <!---
